@@ -1,0 +1,11 @@
+#version: 0.2 - Trained by `huggingface/tokenizers`
+▁ A
+▁A B
+D E
+▁AB C
+A B
+C DE
+▁A C
+▁A F
+▁AB D
+AB CDE
